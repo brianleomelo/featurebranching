@@ -1,5 +1,11 @@
 # Git Feature Branching Model Project
 
+## Grupo N° 7. Integrantes:
+Alberto Marcelino Zárate.
+Brian Leonardo Melo Castro.
+Lisandro Pascuali.
+Lautaro Ramirez.
+
 ## Git Feature Branch Model
 La idea central detrás del flujo de trabajo de la rama de características es que todo el desarrollo de características debe tener lugar en una rama dedicada en lugar de la rama principal. Esta encapsulación facilita que varios desarrolladores trabajen en una función concreta sin afectar al código base principal. También significa que la rama principal nunca contendrá código roto, lo cual es una gran ventaja para los entornos de integración continua.
 
