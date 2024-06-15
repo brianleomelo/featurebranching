@@ -1,1 +1,1 @@
-# featurebranching
+# Git Feature Branching Model Project
